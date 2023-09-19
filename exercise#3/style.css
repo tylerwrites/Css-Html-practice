@@ -1,0 +1,12 @@
+.first-element {
+    background-color: rgb(50, 50, 50);
+    color: rgb(200,200,200)
+}
+.second-element {
+    background-color: rgb(211, 211, 7)
+}
+
+button {
+    font-size: 28px;
+    font-family: Helvetica, 'Times New Roman', sans-serif;
+}
